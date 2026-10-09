@@ -1,0 +1,10 @@
+target/
+project/target/
+project/project/
+.idea/
+*.iml
+.bsp/
+.metals/
+.bloop/
+.vscode/
+.DS_Store
